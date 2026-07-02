@@ -1,0 +1,12 @@
+the value of c is: 7 
+its type is: <class 'int'>
+the value of c is: 701 
+its type is: <class 'int'>
+the value of c is: (24+8j) 
+its type is: <class 'complex'>
+the value of c is: HELLO EVERYONE!!
+This is john's python programming.. 
+its type is: <class 'str'>
+the value of c is: True 
+its type is: <class 'bool'>
+NOTE: boolean has truth values that are case sensitive Ex: True (T is caps!)
