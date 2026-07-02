@@ -1,0 +1,6 @@
+the value of s is: Kitthapob
+the value of v is: Piwan
+after concatenating s and v the string is: KitthapobPiwan
+NOTE: variables after '+' operator must be converted to string before using them as strings
+ otherwise value will be consideredas its class type
+The value of pi is 3.141592653589793
