@@ -1,0 +1,7 @@
+num  = int(input("Enter the number #1 : "))
+num += int(input("Enter the number #2 : "))
+num += int(input("Enter the number #3 : "))
+num += int(input("Enter the number #4 : "))
+num += int(input("Enter the number #5 : "))
+print("Sum of number :", num)
+print(f"Average of number : {num/5:.2f}")
