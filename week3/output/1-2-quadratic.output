@@ -1,0 +1,8 @@
+Enter a, b, c: 1.0, 3, 1
+The roots are -0.3819660112501051 and -2.618033988749895
+
+Enter a, b, c: 1, 2.0, 1
+The root is -1.0
+
+Enter a, b, c: 1, 2, 3
+The equation has no real root
