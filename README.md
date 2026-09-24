@@ -15,6 +15,7 @@ This repository is organized by week and contains programs written while learnin
 | [`week5`](./week5) | Loop-based problem solving, string checking, password validation, and binary-to-decimal conversion      |
 | [`week6`](./week6) | Lists, indexing, list methods, iteration, counting values, reversing lists, and list-based calculations |
 | [`week7`](./week7) | Two-dimensional lists, nested indexing, row and column processing, min/max values, and matrix transpose |
+| [`week8`](./week8) | Python function                                                                                         |
 
 Some exercises also include example program output inside their corresponding `output/` directories.
 
